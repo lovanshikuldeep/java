@@ -1,0 +1,14 @@
+.bg-custom{
+	background:#867979  ;
+	
+	margin:0;
+	padding:0;
+	background-video: url("video/video.mp4");
+}
+.c-head{
+	background:#00b33c;
+	opacity : 0.4;
+}
+tr:nth-child(even) {
+  background-color: #bfbfbf;
+}
